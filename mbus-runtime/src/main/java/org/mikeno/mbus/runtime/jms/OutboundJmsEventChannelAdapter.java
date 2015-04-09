@@ -1,7 +1,7 @@
 package org.mikeno.mbus.runtime.jms;
 
-import org.mikeno.mbus.runtime.Event;
-import org.mikeno.mbus.runtime.EventChannelListener;
+import org.mikeno.mbus.runtime.event.Event;
+import org.mikeno.mbus.runtime.event.EventChannelListener;
 
 
 

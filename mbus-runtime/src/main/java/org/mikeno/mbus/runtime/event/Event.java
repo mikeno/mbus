@@ -1,4 +1,4 @@
-package org.mikeno.mbus.runtime;
+package org.mikeno.mbus.runtime.event;
 
 import java.time.LocalDateTime;
 import java.util.Map;

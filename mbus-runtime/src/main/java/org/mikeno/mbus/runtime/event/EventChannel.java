@@ -1,4 +1,4 @@
-package org.mikeno.mbus.runtime;
+package org.mikeno.mbus.runtime.event;
 
 /**
  *
